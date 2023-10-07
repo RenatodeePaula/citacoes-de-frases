@@ -1,7 +1,7 @@
-<h1 align="center"> Conversor de Unidades </h1>
+<h1 align="center"> Citações de frases interessantes </h1>
 
 <p align="center">
-Conversor de unidades do curso de projetos de JavaScript <br/>
+Citações de frases do curso de projetos de JavaScript <br/>
 </p>
 
 <p align="center">
